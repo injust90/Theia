@@ -26,5 +26,5 @@ Learn how to make notes so the sounds are unique / exclusive to Theia. Nothing i
 ![image](https://user-images.githubusercontent.com/6042608/216368347-e9c0e423-27f8-410c-ab6d-11565ed1092e.png)
 
 # Libraries
-SDL2: Window Management and User Input (Keyboard \ Mouse)
+SDL2: Window Management and User Input (Keyboard \ Mouse)  
 OpenGL: 2D Graphics Rendering
