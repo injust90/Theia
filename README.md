@@ -24,3 +24,7 @@ Utilize the SDL2 library to make the inputs, draw the squares, and play the note
 Learn how to make notes so the sounds are unique / exclusive to Theia. Nothing is taken online.
 
 ![image](https://user-images.githubusercontent.com/6042608/216368347-e9c0e423-27f8-410c-ab6d-11565ed1092e.png)
+
+# Libraries
+SDL2: Window Management and User Input (Keyboard \ Mouse)
+OpenGL: 2D Graphics Rendering
